@@ -8,4 +8,8 @@ int main() {
     printf("\n");
     return 0;
 }
+OUTPUT
+The array elements are:10000
+
+
 
